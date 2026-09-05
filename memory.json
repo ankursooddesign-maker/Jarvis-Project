@@ -1,0 +1,25 @@
+{
+    "name": "Ankur Sood",
+    "age": 21,
+    "birthday": "22 September",
+    "city": "Noida, UP",
+    "interests": [
+        "writing songs",
+        "graphic design",
+        "AI",
+        "travel industry",
+        "Jarvis development"
+    ],
+    "goals": [
+        "building JARVIS",
+        "becoming a top graphic designer"
+    ],
+    "projects": [
+        "Jarvis AI Assistant"
+    ],
+    "preferences": {},
+    "behavior": {},
+    "notes": [
+        "REMINDER: at 20 percent"
+    ]
+}

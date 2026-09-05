@@ -1,0 +1,15 @@
+openai
+groq
+SpeechRecognition
+pyttsx3
+python-dotenv
+colorama
+sounddevice
+soundfile
+pyautogui
+requests
+edge-tts
+playsound==1.2.2
+pillow
+pytz
+pygame
